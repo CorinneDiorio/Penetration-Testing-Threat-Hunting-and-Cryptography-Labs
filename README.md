@@ -24,7 +24,7 @@ This lab demonstrates my hands-on experience applying **Google Dorking** command
 
 This command identifies publicly accessible PDF documents related to climate change. These documents can potentially expose policy information or outdated data useful during the reconnaissance phase of a penetration test.
 
-[![filetype_pdf](screenshots/dork_filetype_pdf.png)](dork_exclude_javascript.png)
+[![filetype_pdf](dork_filetype_pdf.png)](dork_exclude_javascript.png)
 
 ---
 
@@ -32,7 +32,7 @@ This command identifies publicly accessible PDF documents related to climate cha
 
 This Google Dork retrieves webpages that include the term "machine learning" in the body text. This is useful during reconnaissance to identify relevant technical content, implementation details, or public documentation from trusted sources.
 
-[![intext_machine_learning](screenshots/dork_intext_machine_learning.png)](dork_intext_machine_learning.png)
+[![intext_machine_learning](dork_intext_machine_learning.png)](dork_intext_machine_learning.png)
 
 ---
 
@@ -40,7 +40,7 @@ This Google Dork retrieves webpages that include the term "machine learning" in 
 
 This Google Dork excludes pages containing the term "JavaScript," allowing the user to focus on other aspects of web development. This technique is helpful for OSINT and reconnaissance when narrowing the scope of search results to avoid dominant technologies.
 
-[![exclude_javascript](screenshots/dork_exclude_javascript.png)](dork_exclude_javascript.png)
+[![exclude_javascript](dork_exclude_javascript.png)](dork_exclude_javascript.png)
 
 ---
 
