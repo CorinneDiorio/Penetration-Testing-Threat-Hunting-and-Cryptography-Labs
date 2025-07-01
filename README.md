@@ -24,7 +24,7 @@ This lab demonstrates my hands-on experience applying **Google Dorking** command
 
 This command identifies publicly accessible PDF documents related to climate change. These documents can potentially expose policy information or outdated data useful during the reconnaissance phase of a penetration test.
 
-[![filetype_pdf](screenshots/dork_filetype_pdf.png)](screenshots/dork_filetype_pdf.png)
+[![filetype_pdf](screenshots/dork_filetype_pdf.png)](dork_exclude_javascript.png)
 
 ---
 
