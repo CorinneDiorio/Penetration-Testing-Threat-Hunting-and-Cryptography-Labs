@@ -1,8 +1,8 @@
-# 🕵️ Google Dorking Lab — IBM Penetration Testing Course
+# Google Dorking Lab — IBM Penetration Testing Course
 
 This lab demonstrates my hands-on experience applying **Google Dorking** commands to simulate reconnaissance techniques used in ethical penetration testing. This activity was part of the IBM Cybersecurity Analyst Professional Certificate – Penetration Testing Module.
 
-## 🎯 Learning Objectives
+## Learning Objectives
 - Apply Google Dorking commands in pen-testing scenarios
 - Gather OSINT (Open Source Intelligence) using search engine queries
 - Identify exposed data, outdated content, or sensitive files using public tools
@@ -10,7 +10,7 @@ This lab demonstrates my hands-on experience applying **Google Dorking** command
 
 ---
 
-## 🔍 Commands Practiced & Purpose
+## Commands Practiced & Purpose
 
 | Command | Purpose |
 |--------|---------|
@@ -20,7 +20,7 @@ This lab demonstrates my hands-on experience applying **Google Dorking** command
 
 ---
 
-### 📄 Locating File Types — `filetype:pdf climate change`
+### Locating File Types — `filetype:pdf climate change`
 
 This command identifies publicly accessible PDF documents related to climate change. These documents can potentially expose policy information or outdated data useful during the reconnaissance phase of a penetration test.
 
@@ -28,7 +28,7 @@ This command identifies publicly accessible PDF documents related to climate cha
 
 ---
 
-### 🧠 In-Text Search — `intext:machine learning`
+### In-Text Search — `intext:machine learning`
 
 This Google Dork retrieves webpages that include the term "machine learning" in the body text. This is useful during reconnaissance to identify relevant technical content, implementation details, or public documentation from trusted sources.
 
@@ -36,7 +36,7 @@ This Google Dork retrieves webpages that include the term "machine learning" in 
 
 ---
 
-### 🧰 Excluding Terms — `web development -JavaScript`
+### Excluding Terms — `web development -JavaScript`
 
 This Google Dork excludes pages containing the term "JavaScript," allowing the user to focus on other aspects of web development. This technique is helpful for OSINT and reconnaissance when narrowing the scope of search results to avoid dominant technologies.
 
@@ -44,25 +44,17 @@ This Google Dork excludes pages containing the term "JavaScript," allowing the u
 
 ---
 
-## ⚖️ Ethical Use Disclaimer
+## Ethical Use Disclaimer
 
 All Google Dorking commands in this project were used solely for educational purposes. No attempts were made to access private data, exploit vulnerabilities, or target specific systems. All content shown is publicly available from trusted sources.
 
 ---
 
-## 📘 Course Info
+## Course Info
 
-**Course**: IBM Cybersecurity Analyst Professional Certificate  
+**Course**: IBM Penetration Testing, Threat Hunting, and Cryptography 
 **Module**: Penetration Testing  
 **Lab**: Practicing Google Dorking Commands  
 **Platform**: Coursera
 
----
 
-## 🚀 Future Enhancements
-
-- Add additional dorks (e.g., `intitle:`, `site:`, `inurl:`)  
-- Explore how dorking ties into automated OSINT tools (like theHarvester or Recon-ng)  
-- Extend this repo into a larger OSINT-focused collection
-
----
