@@ -52,8 +52,8 @@ All Google Dorking commands in this project were used solely for educational pur
 
 ## Course Info
 
-**Course**: IBM Penetration Testing, Threat Hunting, and Cryptography 
-**Module**: Penetration Testing  
+**Course**: IBM Penetration Testing, Threat Hunting, and Cryptography
+**Module**: Penetration Testing
 **Lab**: Practicing Google Dorking Commands  
 **Platform**: Coursera
 
