@@ -32,7 +32,7 @@ This command identifies publicly accessible PDF documents related to climate cha
 
 This Google Dork retrieves webpages that include the term "machine learning" in the body text. This is useful during reconnaissance to identify relevant technical content, implementation details, or public documentation from trusted sources.
 
-[![intext_machine_learning](screenshots/dork_intext_machine_learning.png)](screenshots/dork_intext_machine_learning.png)
+[![intext_machine_learning](screenshots/dork_intext_machine_learning.png)](dork_intext_machine_learning.png)
 
 ---
 
@@ -40,7 +40,7 @@ This Google Dork retrieves webpages that include the term "machine learning" in 
 
 This Google Dork excludes pages containing the term "JavaScript," allowing the user to focus on other aspects of web development. This technique is helpful for OSINT and reconnaissance when narrowing the scope of search results to avoid dominant technologies.
 
-[![exclude_javascript](screenshots/dork_exclude_javascript.png)](screenshots/dork_exclude_javascript.png)
+[![exclude_javascript](screenshots/dork_exclude_javascript.png)](dork_exclude_javascript.png)
 
 ---
 
