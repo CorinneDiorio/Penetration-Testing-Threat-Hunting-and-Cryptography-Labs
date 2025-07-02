@@ -35,7 +35,7 @@ This hands-on penetration testing lab demonstrates two core recon techniques: **
 - Scan Technique: TCP SYN
 
 📷 **Screenshot**:  
-![Port Scan Results](./port-scan-detailed.png)
+![Port Scan Results](Pen-Test-Scans/port-scan-detailed.png)
 
 ### Observations & Suggested Mitigations
 
